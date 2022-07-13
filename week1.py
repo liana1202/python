@@ -1,0 +1,6 @@
+print('hello world')
+print('안녕하세요')
+print('저는 김나현입니다')
+print('20살입니다')
+print('통계학과에요')
+print('자는걸 좋아해요')
