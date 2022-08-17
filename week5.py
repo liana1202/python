@@ -117,14 +117,28 @@
 #             print(sum(l))
 #             break 
 
-l = []
+# l = []
 
-if: numm = int(input('숫자 입력:'))
-else: numm = str(input('숫자입력:'))
- while True :
-    if numm !=0:
-        l.append(numm)
-    else:
-        print(l)
-        print(sum(l))
-        break 
+# numm = int(input('숫자 입력:'))
+# str1 = str(input('문자입력:'))
+# while True :/
+#     if numm !=0:
+#             l.append(numm)
+#     else:
+#         print(l)
+#         print(sum(l))
+#         break
+
+
+
+# l = []
+# while True :
+#     num = input('숫자 입력:')
+#     if num == '':
+#         print()
+#     elif int(num) != 0:
+#         l.append(int(num))
+#     else:
+#         print(l)
+#         print(sum(l))
+#         break
